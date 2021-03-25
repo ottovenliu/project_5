@@ -1,7 +1,8 @@
 <<<<<<< HEAD
 使用 INSERT 指令新增一筆資料到 user 資料表中，這筆資料的 username 和password 欄位必須是 ply。接著繼續新增至少 4 筆隨意的資料。<br>
 INSERT INTO table_name (name, username, password)
-VALUES (游旻婷,游旻婷,123)(謝瑞蓮,小蓮花,456),(劉顓豪,阿豪,789),(GM,ply,ply),(劉建國,國哥);
+VALUES (游旻婷,游旻婷,123)(謝瑞蓮,小蓮花,456),(劉顓豪,阿豪,789),(GM,ply,ply),(劉建國,國哥);<br>
+
 使用 SELECT 指令取得所有在 user 資料表中的使用者資料。<br>
 "select * from user;"<br>
 ![1](https://user-images.githubusercontent.com/76770643/112414860-c4e8d400-8d5d-11eb-8fdd-20735c34f9c2.JPG)
